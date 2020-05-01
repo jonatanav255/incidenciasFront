@@ -1,2 +1,0 @@
-# incidenciasFront
-front incidencias
